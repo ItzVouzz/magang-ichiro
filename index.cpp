@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Helo";
+  std::cout << "Helo GIT";
 
   return 0;
 }
